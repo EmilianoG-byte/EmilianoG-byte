@@ -4,7 +4,7 @@ I am Emiliano, a quantum physicist master student [@TUM](https://www.ph.tum.de/a
 
 ### About me 👀
 
-- 🌊 Outisde of work/study I like to play football, skate, swim, and windsurf
+- 🌊 Outside of work/study I like to play football, skate, swim, and windsurf
 - 🥘 Enjoy cooking for my friends
 - 🍰 BIG, BIG, BIG fan of cakes
 - 📚 Always eager to learn about cool proofs and coding tricks
