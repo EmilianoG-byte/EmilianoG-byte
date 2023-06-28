@@ -10,7 +10,7 @@ I am Emiliano, a quantum physicist master student [@TUM](https://www.ph.tum.de/a
 - 📚 Always eager to learn about cool proofs and coding tricks
 - ⚛️ And in general, just passionate about everything quantum 
 
-<hr>
+<br>
 <h3 align="center" > Connect with me 🤝 </h3>
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
