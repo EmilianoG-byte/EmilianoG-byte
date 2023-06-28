@@ -10,7 +10,8 @@ I am Emiliano, a quantum physicist master student [@TUM](https://www.ph.tum.de/a
 - 📚 Always eager to learn about cool proofs and coding tricks
 - ⚛️ And in general, just passionate about everything quantum 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<hr>
+<h3 align="center" > Connect with me 🤝 </h3>
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/cristian-emiliano-godinez-ramirez/">
@@ -23,6 +24,8 @@ I am Emiliano, a quantum physicist master student [@TUM](https://www.ph.tum.de/a
 template:https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/100rabhcsmc.md?plain=1
 ideas: https://github.com/natestemen, https://github.com/josh146/josh146/blob/main/README.md?plain=1
 Here are some ideas to get you started:
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
